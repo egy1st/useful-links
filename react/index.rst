@@ -6,5 +6,7 @@ Links:
   - Related course APIs: https://course-api.com/
   - React icons: https://react-icons.github.io/react-icons/
   - free stock photos, royalty free images & videos shared by creators : https://www.pexels.com/
-  -
+  - favicon generator: https://favicon.io/
+  - favicon generator: https://www.favicon.cc
+  
   
