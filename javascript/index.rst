@@ -1,4 +1,4 @@
-The Ccomplete Web Development Bbootcamp
+The Complete Web Development Bbootcamp
 =========================================
 
 Links:
