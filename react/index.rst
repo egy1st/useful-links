@@ -9,5 +9,6 @@ Links:
   - favicon generator: https://favicon.io/
   - favicon generator: https://www.favicon.cc
   - svg repository: https://undraw.co/
+  - Twitter card validator: https://cards-dev.twitter.com/validator
   
   
