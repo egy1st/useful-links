@@ -1,3 +1,3 @@
 # Useful Links
 
-Do not search for things when you where should it would be.
+Do not search for things as long as you know where it would be.
