@@ -11,4 +11,10 @@ Links:
   - svg repository: https://undraw.co/
   - Twitter card validator: https://cards-dev.twitter.com/validator
   
+  Headless CMS:
+  - contentful: https://www.contentful.com/
+  - Strapi: https://strapi.io/
+  - Aittable: https://www.airtable.com/
+  
+  
   
