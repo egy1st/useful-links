@@ -7,4 +7,6 @@ Links:
   - Picular, the color of anything: https://picular.co/
   - Random Color: https://colors.cafe/
   - Adobe Color Wheel: https://color.adobe.com/create/color-wheel
+  - Color Picker for Designer: https://colorsupplyyy.com/
+  
   
