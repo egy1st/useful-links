@@ -1,5 +1,5 @@
-gatsby-tutorial-and-projects-course
-=====================================
+Gatsby Ttorial and Projects 
+============================
 
 Links:
   - Course URL: https://www.udemy.com/course/gatsby-tutorial-and-projects-course
