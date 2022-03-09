@@ -9,10 +9,10 @@ Links:
   - Graphql Server: https://www.graphql-yoga.com/
   
 Build internal tools:
+  - Bubble: https://bubble.io/
+  - ReTool: https://retool.com/ 
   - App Smith: https://app.appsmith.com/
   - Tool Jet: https://tooljet.com/
-  - ReTool: https://retool.com/ 
-  - Bubble: https://bubble.io/
-  Buildbase: https://budibase.com/
-  - 
+  - Budibase: https://budibase.com/
+
   
