@@ -7,4 +7,5 @@ Links:
   - Course GraphQL Playground: https://graphql-demo.mead.io/
   - Console emulator for Windows: https://cmder.net/
   - Graphql Server: https://www.graphql-yoga.com/
+  - Build Custom Business Software: https://app.appsmith.com/
   
