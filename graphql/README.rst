@@ -12,6 +12,7 @@ Build internal tools:
   - Bubble: https://bubble.io/
   - ReTool: https://retool.com/ 
   - App Smith: https://app.appsmith.com/
+  - Adalo: https://adalo.com/
   - Tool Jet: https://tooljet.com/
   - Budibase: https://budibase.com/
 
