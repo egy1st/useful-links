@@ -15,5 +15,6 @@ Build internal tools:
   - Adalo: https://adalo.com/
   - Tool Jet: https://tooljet.com/
   - Budibase: https://budibase.com/
+  - Internal: https://www.internal.io/
 
   
