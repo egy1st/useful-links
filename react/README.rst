@@ -1,22 +1,10 @@
-Gatsby Ttorial and Projects 
-============================
+React Tutorial and Projects Course
+=======================================
 
 Links:
-  - Course URL: https://www.udemy.com/course/gatsby-tutorial-and-projects-course
-  - Related course APIs: https://course-api.com/
-  - React icons: https://react-icons.github.io/react-icons/
-  - free stock photos, royalty free images & videos shared by creators : https://www.pexels.com/
-  - favicon generator: https://favicon.io/
-  - favicon generator: https://www.favicon.cc
-  - svg repository: https://undraw.co/
-  - Twitter card validator: https://cards-dev.twitter.com/validator
-  - Data Format: https://momentjs.com/
-  - MDX: https://mdxjs.com/
+  - Course URL: https://www.udemy.com/course/react-tutorial-and-projects-course/
+  - Javascript Bundler: https://webpack.js.org/
   
-Headless CMS:
-  - contentful: https://www.contentful.com/
-  - Strapi: https://strapi.io/
-  - Aittable: https://www.airtable.com/
-
+  
 
 
