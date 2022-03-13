@@ -12,6 +12,7 @@ Links:
   - Twitter card validator: https://cards-dev.twitter.com/validator
   - Data Format: https://momentjs.com/
   - MDX: https://mdxjs.com/
+  - Website Search: https://www.algolia.com/
   
 Headless CMS:
   - contentful: https://www.contentful.com/
