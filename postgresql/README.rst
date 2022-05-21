@@ -11,4 +11,5 @@ Links:
    - on heroku: https://github.com/willnet/redash-on-heroku
     
   - Table Plus perfect desktop SQL tool: https://tableplus.com/
+  - free sql online tool http://sqlfiddle.com/#!17
   
