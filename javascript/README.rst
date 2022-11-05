@@ -10,6 +10,6 @@ Links:
   
   
  Resources
- ----------------
+===========
  typing: https://www.keybr.com/
  
