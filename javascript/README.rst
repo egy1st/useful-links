@@ -20,4 +20,6 @@ Links:
 https://devdocs.io/
 MDN: https://developer.mozilla.org/
 W3 School: https://www.w3schools.com/html/default.asp
+charset-utf8 https://unicode-table.com/
+
 
