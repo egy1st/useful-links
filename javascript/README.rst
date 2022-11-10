@@ -14,3 +14,10 @@ Links:
  typing: https://www.keybr.com/
  online code editor: https://codepen.io/
  
+ 
+ documentation
+================
+https://devdocs.io/
+MDN: https://developer.mozilla.org/
+W3 School: https://www.w3schools.com/html/default.asp
+
