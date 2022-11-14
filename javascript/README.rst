@@ -14,7 +14,8 @@ Links:
  - typing: https://www.keybr.com/
  - online code editor: https://codepen.io/
  - Online Coding: https://replit.com/
- -  Interactive coding & grading: https://app.codingrooms.com/
+ - Interactive coding & grading: https://app.codingrooms.com/
+ - color pallete: https://colorhunt.co/
  
  
  documentation
