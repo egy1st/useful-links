@@ -20,6 +20,8 @@ Links:
  This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
  - emoji: https://emojipedia.org/
  - png icons: https://www.pngwing.com/
+ - font availability on os: https://www.cssfontstack.com/
+ 
  
  
  documentation
