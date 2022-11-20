@@ -23,6 +23,13 @@ Links:
  - font availability on os: https://www.cssfontstack.com/
  
  
+ Dummy Content
+ =========
+ - lorem epsum with translation: https://www.loremipzum.com/en/
+ - lorem epsum: https://www.lipsum.com/
+ - lorem epsum: https://loremipsum.io/
+ - lorem epsum: https://getlorem.com/
+ 
  
  documentation
 ================
