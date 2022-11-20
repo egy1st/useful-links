@@ -21,6 +21,8 @@ Links:
  - emoji: https://emojipedia.org/
  - png icons: https://www.pngwing.com/
  - font availability on os: https://www.cssfontstack.com/
+ - icons: https://www.flaticon.com/
+ 
  
  
  Dummy Content
