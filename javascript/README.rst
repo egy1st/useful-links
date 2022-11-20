@@ -22,6 +22,7 @@ Links:
  - png icons: https://www.pngwing.com/
  - font availability on os: https://www.cssfontstack.com/
  - icons: https://www.flaticon.com/
+ - slides presentation: https://slidesgo.com/
  
  
  
