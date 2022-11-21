@@ -25,6 +25,8 @@ Links:
  - slides presentation: https://slidesgo.com/
  -button generator: https://css3buttongenerator.com/
  - online coding with library: https://www.codeply.com/
+ - online coding with live view: https://codesandbox.io/
+ - online code: https://jsfiddle.net/
  
  
  
