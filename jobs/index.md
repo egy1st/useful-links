@@ -1,2 +1,2 @@
 - https://jobs.uaeu.ac.ae/
-- 
+- https://www.naukrigulf.com/
