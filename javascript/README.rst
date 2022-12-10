@@ -27,6 +27,7 @@ Links:
  - online coding with library: https://www.codeply.com/
  - online coding with live view: https://codesandbox.io/
  - online code: https://jsfiddle.net/
+ - vector editor: https://fixthephoto.com/
  
  
  
